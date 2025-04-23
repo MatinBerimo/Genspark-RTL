@@ -28,12 +28,8 @@ This extension addresses the RTL display issues on Deepseek and Genspark platfor
 
 ## How to Install the Extension
 
-### Method 1: Install from Chrome Web Store
-1. Visit the Chrome Web Store (link to be added when published)
-2. Click "Add to Chrome"
-3. Confirm by clicking "Add extension" in the popup
 
-### Method 2: Install in Developer Mode
+### Method 1: Install in Developer Mode
 1. Download the extension files to your computer
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" using the toggle in the top-right corner
